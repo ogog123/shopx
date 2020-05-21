@@ -1,0 +1,8 @@
+com\jk\model\BookBean.class
+com\jk\dao\impl\BookDaoImpl.class
+com\jk\utils\Page.class
+com\jk\dao\BookDao.class
+com\jk\service\impl\BookService.class
+com\jk\utils\BaseAction.class
+com\jk\action\BookAction.class
+com\jk\service\impl\BookServiceImpl.class

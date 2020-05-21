@@ -1,0 +1,12 @@
+
+Nsquid:S1135L"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+?squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(ªÁ¯§úÿÿÿÿ
+Tsquid:S1854X">Remove this useless assignment to local variable "jsonString".(ØŞö}
+@squid:S1948")Make "request" transient or serializable.(íÑä™
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Nsquid:S1135\"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(›Ù…•ùÿÿÿÿ
+Esquid:S1481X"/Remove this unused "jsonString" local variable.(ØŞö}
+Lsquid:S1948 "0Make "servletContext" transient or serializable.(³÷ ´ùÿÿÿÿ
+Asquid:S1948"*Make "response" transient or serializable.(ï²ÙÕ
