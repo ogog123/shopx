@@ -25,7 +25,7 @@
     <spring.version>4.3.0.RELEASE</spring.version>
     <hibernate.version>5.2.2.Final</hibernate.version>
     <struts2.version>2.5.1</struts2.version>
-    <jackson.version>2.7.5</jackson.version>
+    <jackson.version>2.12.1</jackson.version>
     <log4j.version>2.5</log4j.version>
   </properties>
 
